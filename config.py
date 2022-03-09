@@ -1,0 +1,13 @@
+MAX_LEN = 80
+model_name = "roberta-base"
+model_type = "0PET"
+pre_str = "it is good"
+PATTERN = 3
+mask_ids = [2]
+classes_word = [["bad"], ["good"]]
+test_name = "eng_demo5"
+lr = 2e-6
+epochs = 30
+rate = 0.05
+steps = 4
+batch_size = 10

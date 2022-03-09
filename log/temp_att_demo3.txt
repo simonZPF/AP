@@ -1,0 +1,5 @@
+ 1 loss: 0.90553 train acc: 0.58255dev0 acc 0.37500 dev1 acc 0.51250 dev2 acc 0.58065 dev3 acc 0.58333 mean_dev acc 0.51287 test acc 0.54426 
+ 2 loss: 0.79138 train acc: 0.61745dev0 acc 0.37500 dev1 acc 0.53750 dev2 acc 0.58065 dev3 acc 0.62500 mean_dev acc 0.52954 test acc 0.57213 
+ 3 loss: 0.73882 train acc: 0.64161dev0 acc 0.43750 dev1 acc 0.57917 dev2 acc 0.60215 dev3 acc 0.62500 mean_dev acc 0.56095 test acc 0.59180 
+ 4 loss: 0.72099 train acc: 0.64295dev0 acc 0.50000 dev1 acc 0.58333 dev2 acc 0.65591 dev3 acc 0.66667 mean_dev acc 0.60148 test acc 0.59836 
+ 5 loss: 0.68894 train acc: 0.65570dev0 acc 0.50000 dev1 acc 0.60833 dev2 acc 0.65591 dev3 acc 0.66667 mean_dev acc 0.60773 test acc 0.60984 

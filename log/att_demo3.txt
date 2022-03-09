@@ -1,0 +1,5 @@
+loss: 0.90553  train_acc: 0.58255 dev_acc 0.51287 test_acc 0.54426
+loss: 0.79138  train_acc: 0.61745 dev_acc 0.52954 test_acc 0.57213
+loss: 0.73882  train_acc: 0.64161 dev_acc 0.56095 test_acc 0.59180
+loss: 0.72099  train_acc: 0.64295 dev_acc 0.60148 test_acc 0.59836
+loss: 0.68894  train_acc: 0.65570 dev_acc 0.60773 test_acc 0.60984
